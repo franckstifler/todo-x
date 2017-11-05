@@ -1,0 +1,6 @@
+extends header.pug
+block content
+    h5 List of available users
+    ul
+        each user in users
+            li= user.email + ' password: ' + user.password

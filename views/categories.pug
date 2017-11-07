@@ -1,9 +1,0 @@
-extends header.pug
-block content
-    h3 Welcome to #{email} tasks
-    ol
-        each category in categories
-         li= category.name + ' has ' + category.tasks.length + ' task(s)'
-            ul
-                each task in category.tasks
-                    li= task.name

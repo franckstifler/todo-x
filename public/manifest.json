@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "DoAM",
+  "description": "A todo list based on an iphone X design.",
+  "name": "DoAM - Todo App",
   "icons": [
     {
       "src": "favicon.ico",

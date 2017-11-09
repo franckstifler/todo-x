@@ -8,3 +8,5 @@ A todo list based on an iphone X design.
 * React for the UI
 * UIKit as the css framework
 * react-slick for the carousel.
+## Demo of what to Achieve
+![todo list of Jae-seong Iphone X design](todo.gif)
